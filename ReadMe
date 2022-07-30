@@ -1,0 +1,5 @@
+// Require: NodeJS 16.4
+// Author: Rubens Alban
+// Date: 30-07-2022
+// Version: 1.0
+// Description: Script d'upload de fichier json sur firestore

@@ -1,0 +1,16 @@
+{
+  "name": "jsontofirebase",
+  "version": "1.0.0",
+  "description": "Script d'upload json sur firestore",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ruben's Alban",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^9.9.1",
+    "firebase-admin": "^11.0.1",
+    "firestore-export-import": "^1.2.0"
+  }
+}
